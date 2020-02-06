@@ -1,1 +1,4 @@
-"# simple-note-manager-app" 
+Simple Note Manager App
+----------------------------------------------
+
+ Run> meteor
